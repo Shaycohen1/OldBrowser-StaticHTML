@@ -1,12 +1,12 @@
 {
     "title": "Dein Browser wird nicht <br>mehr unterstützt",
-    "sub-title": "Aktualisiere deinen Browser kostenlos, um diese Website <br>anzuzeigen und ein besseres Online-Erlebnis zu haben.",
-    "google-text": "Google Chrome",
-    "google-link": "https://www.google.com/intl/de/chrome/",
-    "safari-text": "Safari (Mac)",
-    "safari-link": "https://safari.de.softonic.com/mac",
-    "edge-text": "Edge",
-    "edge-link": "https://www.microsoft.com/de-de/edge",
-    "firefox-text": "Firefox",
-    "firefox-link": "https://www.mozilla.org/de/firefox/new/"
+    "subTitle": "Aktualisiere deinen Browser kostenlos, um diese Website <br>anzuzeigen und ein besseres Online-Erlebnis zu haben.",
+    "googleText": "Google Chrome",
+    "googleLink": "https://www.google.com/intl/de/chrome/",
+    "safariText": "Safari (Mac)",
+    "safariLink": "https://safari.de.softonic.com/mac",
+    "edgeText": "Edge",
+    "edgeLink": "https://www.microsoft.com/de-de/edge",
+    "firefoxText": "Firefox",
+    "firefoxLink": "https://www.mozilla.org/de/firefox/new/"
 }
