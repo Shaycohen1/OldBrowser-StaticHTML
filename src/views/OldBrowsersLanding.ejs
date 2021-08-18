@@ -8,21 +8,22 @@
 </head>
 <body>
     <h1 id='title'>
-        Your Browser Is <br>No Longer Supported
+        <%= title %> 
     </h1>
-    <strong class='sub-title' id='sub-title'>To view this website and enjoy a better online experience,<br> 
-update your browser for free.</strong>
+    <strong class='sub-title' id='sub-title'>
+        <%= subTitle %>
+    </strong>
     <ul class='downloads-list'>
         <li>
             <a href='https://www.google.com/intl/en/chrome/' class='links'>
                 <div class='btn-container'>
-                    Google Chrome
+                    <%= googleText %>
                 </div>
             </a>
         </li>
-        <li><a href='https://safari.en.softonic.com/mac' class='links'>Safari (Mac)</li>
-        <li><a href='https://www.microsoft.com/en-us/edge/features?form=MY01RZ&OCID=MY01RZ' class='links'>Edge</li>
-        <li><a href='https://www.mozilla.org/en-US/firefox/new/' class='links'>Firefox</li>
+        <li><a href='https://safari.en.softonic.com/mac' class='links'><%= safariText %></li>
+        <li><a href='https://www.microsoft.com/en-us/edge/features?form=MY01RZ&OCID=MY01RZ' class='links'><%= edgeText %></li>
+        <li><a href='https://www.mozilla.org/en-US/firefox/new/' class='links'><%= firefoxText %></li>
     </ul>
 </body>
 </html>
